@@ -1,6 +1,6 @@
 /* index */
 .head {
-  background-color: #FF0000;
+  background-color: red;
   height: 60px;
 }
 
@@ -82,7 +82,7 @@
 }
 
 .post_dec h2, .post_dec2 h2, .post_dec3 h2 {
-  color: #FF0000;
+  color: #3333cc;
 }
 
 .post_dec, .post_dec3 {
@@ -95,7 +95,6 @@
 .post2, .post3 {
   width: auto;
   height: 600px;
-  margin-top: 300px;
 }
 
 .post_dec2 {
@@ -113,7 +112,7 @@
 }
 
 .footer {
-  background-color: #FF0000;
+  background-color: red;
   height: 120px;
   margin-top: 88px;
 }
@@ -124,7 +123,7 @@
 }
 
 #page-header {
-  background: url(../imge/a.jpg);
+  background: url(../photos/slide1.png);
   background-size: cover;
   height: 300px;
   padding-top: 50px;
@@ -133,7 +132,7 @@
 }
 
 #page-header_1 {
-  background: url(../imge/a.jpg);
+  background: url(../photos/slide1.png);
   background-size: cover;
   height: 300px;
   padding-top: 50px;
@@ -156,7 +155,7 @@
 }
 
 .reg_btn {
-  background-color: #FF0000;
+  background-color: #3333ff;
   color: white;
 }
 
@@ -172,7 +171,7 @@
 }
 
 .search_bt {
-  background-color: #FF0000;
+  background-color: #3333ff;
   color: white;
   margin-left: 215px;
 }
@@ -186,7 +185,7 @@
 }
 
 .theadcolor {
-  background-color: #FF0000;
+  background-color: #3333ff;
 }
 
 .donor_list {
